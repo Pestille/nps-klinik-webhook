@@ -20,7 +20,7 @@ const MSG_PROMOTOR =
   "Ficamos felizes pelo seu feedback! Agora, nos ajudaria muito a sua avaliacao no Google (leva menos de 1 minuto): " +
   REVIEW_URL;
 const MSG_DETRATOR =
-  "Muito obrigado pelo seu feedback! Agora, nos ajude a melhorar: pode nos dizer o motivo da sua nota? Vamos ler com atencao.";
+  "Muito obrigado pelo seu feedback! Agora, nos ajude a melhorar: pode nos dizer o motivo da sua nota? Vamos ler com atenção.";
 const MSG_AGRADECE_MOTIVO = "Recebemos o seu retorno. Muito obrigado por nos ajudar a melhorar!";
 
 const DIAS90 = 60 * 60 * 24 * 90;
